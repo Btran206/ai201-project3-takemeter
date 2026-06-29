@@ -1,0 +1,12 @@
+{
+  "baseline_accuracy": 0.8333,
+  "finetuned_accuracy": 0.6333,
+  "improvement": -0.2,
+  "test_set_size": 30,
+  "label_map": {
+    "Substantive Discussion": 0,
+    "Question or Help Request": 1,
+    "Community or Entertainment Content": 2
+  },
+  "model": "distilbert-base-uncased"
+}
